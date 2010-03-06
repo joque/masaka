@@ -1,0 +1,1 @@
+We shall describe the functionality of the application following RSpec.
